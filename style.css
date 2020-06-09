@@ -88,3 +88,8 @@ body {
     border-radius: 5px;
 
 }
+
+
+.ss:hover {
+    text-decoration: none;
+}
